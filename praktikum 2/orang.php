@@ -20,6 +20,6 @@ class orang{
     //destructor
     public function __destruct()
     {
-        echo "Ini adalah destructor dari " . $this->nama . '<br>';
+        echo "Ini adalah destructor dari " . $this->nama .'<br>';
     }
 }
